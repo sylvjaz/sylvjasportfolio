@@ -13,13 +13,19 @@ img {
   width: 50%;
   opacity: 0.5;
 }
-
 h2 {
   color:#5F9EA0;
   text-align: center;
 }
-
 h3 {
   color:#5F9EA0;
   text-align: center;
+}
+.projectlist{
+  color:#FF7F50;
+}
+
+.githublink {
+  list-style-type: upper-roman;
+  font-weight: bold;
 }
