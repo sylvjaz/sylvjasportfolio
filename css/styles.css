@@ -1,5 +1,16 @@
 h1 {
-  color:;
-  text-align:;
+  color:#5F9EA0;
+  text-align:center;
+}
+.favoritequote {
+  color:#FF7F50;
+  text-align:center;
+}
+img {
+  border-radius: 8px;
 }
 
+h2 {
+  color:#5F9EA0;
+  text-align: center;
+}
