@@ -17,6 +17,10 @@ h2 {
   color:#5F9EA0;
   text-align: center;
 }
+.name {
+  color: red;
+  font-weight: bold;
+}
 h3 {
   color:#5F9EA0;
   text-align: center;
@@ -28,4 +32,8 @@ h3 {
 .githublink {
   list-style-type: upper-roman;
   font-weight: bold;
+}
+h4 {
+  color:#5F9EA0;
+  text-align:center;
 }
