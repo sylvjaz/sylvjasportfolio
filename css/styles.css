@@ -55,3 +55,11 @@ h4 {
 .college {
   color:#228B22;
 }
+.subheader {
+  color:#FF7F50;
+}
+.column {
+  width: 30%;
+  float: left;
+  background-color: yellow;
+}
