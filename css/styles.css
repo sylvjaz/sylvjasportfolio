@@ -1,3 +1,6 @@
+body {
+  background-color:#F0E68Ced
+}
 h1 {
   color:#5F9EA0;
   font-family: sans-serif;
@@ -12,11 +15,16 @@ p {
   text-align: center;
 }
 img {
+  width: 300px;
+  border: 100px solid #800000;
+  padding: 50px;
+  margin: 20px;
+}
+.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  opacity: 0.5;
 }
 h2 {
   color:#5F9EA0;
@@ -39,12 +47,15 @@ h3 {
   text-align: justify;
 }
 .githublink {
+  font-family: Tahoma, Verdana, sans-serif;
   list-style-type: upper-roman;
   font-weight: bold;
 }
+
 ol {
   background: #8FBC8F;
   padding: 20px;
+  font-family: Tahoma, Verdana, sans-serif;
 }
 h4 {
   color:#5F9EA0;
@@ -59,7 +70,7 @@ h4 {
   color:#FF7F50;
 }
 .column {
-  width: 30%;
+  font-family: Tahoma, Verdana, sans-serif;
+  width: 20%;
   float: left;
-  background-color: yellow;
 }
