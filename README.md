@@ -27,8 +27,8 @@ _This browser allows for users to get to know me and see what I have achieved an
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _Needs to have more developed and concise devs_
+* _Want to learn further on formatting so that appearance is better_
 
 ## License
 
