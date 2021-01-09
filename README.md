@@ -2,7 +2,7 @@
 
 #### _A simple HTML and CSS interface for my resume_
 
-#### By _Syljva Adamson_
+#### By _Sylvja Adamson_
 
 ## Technologies Used
 
