@@ -1,20 +1,22 @@
-#wholepage 
-{ position: absolute; 
-  margin:0px;
-  width:100%; 
-}
+
 body {
   background-color:#F0E68Ced;
   font-size: 12 px;
+  font-family: Tahoma, Verdana, sans-serif;
+}
+q {
+  quotes: '"' '"' "'" "'";
+}
+q::before {
+  content: open-quote;
+}
+q::after {
+  content: close-quote;
 }
 h1 {
   color:#5F9EA0;
-  font-family: sans-serif;
   text-align: center;
 }
-p {
-  font-family: Tahoma, Verdana, sans-serif;
-  }
 .favoritequote {
   color:#800000;
   text-align: center;
@@ -50,7 +52,6 @@ h2 {
   text-align: justify;
 }
 .githublink {
-  font-family: Tahoma, Verdana, sans-serif;
   list-style-type: upper-roman;
   font-weight: bold;
 }
@@ -61,7 +62,6 @@ a {
 ol {
   background: #8FBC8F;
   padding: 20px;
-  font-family: Tahoma, Verdana, sans-serif;
 }
 .college {
   color:#228B22;
@@ -70,7 +70,6 @@ ol {
   color:#800000;
 }
 .column {
-  font-family: Tahoma, Verdana, sans-serif;
   color: black; 
   width: 100%;
   float: left;
