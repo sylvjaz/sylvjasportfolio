@@ -1,6 +1,6 @@
 # _Sylvja's Portfolio_
 
-#### _A simple HTML and CSS interface for my resume_
+#### _A simple HTML and CSS interface as my portfolio_
 
 #### By _Syljva Adamson_
 
@@ -37,3 +37,7 @@ _This browser allows for users to get to know me and see what I have achieved an
 ## Contact Information
 
 _Email: conneradamson@comcast.net_
+
+## Contact Information
+
+_GITHUB Link: https://github.com/sylvjaz/sylvjasportfolio_
