@@ -57,7 +57,6 @@ h2 {
 a {
   color: #FFF8DC;
 }
-
 ol {
   background: #8FBC8F;
   padding: 20px;
@@ -65,7 +64,10 @@ ol {
 .college {
   color:#228B22;
 }
-.subheader {
+.background {
+  color:#800000;
+}
+.workexperience {
   color:#800000;
 }
 .column {
